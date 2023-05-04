@@ -75,7 +75,7 @@
 
 - [SLSA • Supply-chain Levels for Software Artifacts](https://slsa.dev/)
 
-## Industry Peers
+## Interesting Companies
 
 - [Microsoft Joins The Open 3D Foundation For Advancing Open-Source 3D Development - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=Microsoft-Open-3D-Foundation)
 
