@@ -32,7 +32,7 @@
 
 - [Nobody wants your fancy algorithm](https://joemorrison.substack.com/p/nobody-wants-your-fancy-algorithm?s=r)
 
-- [9 Ways to Fail at Cloud Native](vhttps://www.infoq.com/presentations/fail-cloud-native-migration/)
+- [9 Ways to Fail at Cloud Native](https://www.infoq.com/presentations/fail-cloud-native-migration/)
 
 - [Why the cloud is so complicated—an explanation, not an excuse | InfoWorld](https://www.infoworld.com/article/3628245/why-the-cloud-is-so-complicatedan-explanation-not-an-excuse.html)
 
