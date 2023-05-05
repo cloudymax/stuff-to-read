@@ -13,6 +13,10 @@ A list of interesting articles for cloud-native ethusiasts
 5. [The state of the industry](https://github.com/cloudymax/stuff-to-read/blob/main/industry.md)
 
 6. [Problems to solve](https://github.com/cloudymax/stuff-to-read/blob/main/problems.md)
+    - [Money](https://github.com/cloudymax/stuff-to-read/blob/main/problems.md#money)
+    - [Accountability](https://github.com/cloudymax/stuff-to-read/blob/main/problems.md#accountability)
+    - [Justice and Equity](https://github.com/cloudymax/stuff-to-read/blob/main/problems.md#justice-and-equity)
+    - [Design](https://github.com/cloudymax/stuff-to-read/blob/main/problems.md#design)
 
 7. [Sustainability](https://github.com/cloudymax/stuff-to-read/blob/main/sustainability.md)
     - [Emissions](https://github.com/cloudymax/stuff-to-read/blob/main/sustainability.md#emissions-energy-crisis-and-waste)
