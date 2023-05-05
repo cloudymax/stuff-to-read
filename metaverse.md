@@ -8,6 +8,8 @@
 
 - [The metaverse is infrastructure | VentureBeat](https://venturebeat.com/2021/11/18/the-metaverse-is-infrastructure/amp/)
 
+- [How edge devices and infrastructure will shape the metaverse experience | VentureBeat](https://venturebeat.com/virtual/how-edge-devices-and-infrastructure-will-shape-the-metaverse-experience/) 
+
 ## User Experience
 
 - [Video - Making Sense of VRChat, the "Metaverse" People Actually Like](https://www.youtube.com/watch?v=4PHT-zBxKQQ)
