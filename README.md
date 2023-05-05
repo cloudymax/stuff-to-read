@@ -11,6 +11,13 @@ A list of interesting articles for cloud-native ethusiasts
 4. [Governance](https://github.com/cloudymax/stuff-to-read/blob/main/governance.md)
 
 5. [The state of the industry](https://github.com/cloudymax/stuff-to-read/blob/main/industry.md)
+    - [Lock-in & Cost](https://github.com/cloudymax/stuff-to-read/blob/main/industry.md#lock-in-and-cost)
+    - [Supply Chains](https://github.com/cloudymax/stuff-to-read/blob/main/industry.md#supply-chain)
+    - [Workforce](https://github.com/cloudymax/stuff-to-read/blob/main/industry.md#workforce)
+    - [Regulation & Standards](https://github.com/cloudymax/stuff-to-read/blob/main/industry.md#regulation-and-standards)
+    - [Interesting Companies](https://github.com/cloudymax/stuff-to-read/blob/main/industry.md#interesting-companies)
+    - [Nation-State Investments](https://github.com/cloudymax/stuff-to-read/blob/main/industry.md#nation-state-investment)
+    - [Charts](https://github.com/cloudymax/stuff-to-read/blob/main/industry.md#charts)
 
 6. [Problems to solve](https://github.com/cloudymax/stuff-to-read/blob/main/problems.md)
     - [Money](https://github.com/cloudymax/stuff-to-read/blob/main/problems.md#money)
