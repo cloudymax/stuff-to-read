@@ -83,7 +83,8 @@
 
 - [Stream a remote screen with WebRTC](https://viscarra.dev/post/webrtc-remote-screen/)
 
-
+- [The Best GPUs for Deep Learning in 2023 — An In-depth Analysis](https://timdettmers.com/2023/01/16/which-gpu-for-deep-learning/)
+- 
 ## Cloud-init
 
 - [Cloud-Init and VMs – Linux Hint](https://linuxhint.com/cloud_init_vms/)
