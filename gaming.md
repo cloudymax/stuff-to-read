@@ -16,6 +16,8 @@
 
 - [Cloud gaming will save you money but won't save the planet | PC Gamer](https://www.pcgamer.com/cloud-gaming-will-save-you-money-but-wont-save-the-planet/)
 
+- [Cloud gaming | qwantify](https://qwantify.vercel.app/) 
+
 ## State of the Industry
 
 - [Gaming consolidation in full swing - Axios](https://www.axios.com/gaming-consolidation-in-full-swing-a4caf136-4cb8-4226-814c-93a62b47cd8f.html)
