@@ -3,6 +3,9 @@
 A list of interesting articles and projects for cloud-native ethusiasts
 
 1. [Aritecture](https://github.com/cloudymax/stuff-to-read/blob/main/architecture.md)
+    - [Systems Design](https://github.com/cloudymax/stuff-to-read/blob/main/architecture.md#systems-design)
+    - [Infrastructure](https://github.com/cloudymax/stuff-to-read/blob/main/architecture.md#infrastructure)
+    - [Moore's Law](https://github.com/cloudymax/stuff-to-read/blob/main/architecture.md#moores-law)
 
 2. [DevOps & SRE](https://github.com/cloudymax/stuff-to-read/blob/main/devops.md)
     - [Culture](https://github.com/cloudymax/stuff-to-read/blob/main/devops.md#culture)
