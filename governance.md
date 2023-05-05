@@ -6,8 +6,6 @@
 
 ## Regulations
 
-- [Corporate sustainability push a $35 trillion dollar conundrum for auditors | Reuters](https://www.reuters.com/markets/funds/corporate-sustainability-push-35-trillion-dollar-conundrum-auditors-2022-02-22/)
-
 - [Uber must employ its drivers, Dutch court rules | NL Times](https://nltimes.nl/2021/09/13/uber-must-employ-its-drivers-dutch-court-rules)
 
 - [Netherlands failed to achieve court-ordered environmental targets last year | NL Times](https://nltimes.nl/2022/03/16/netherlands-failed-achieve-court-ordered-environmental-targets-last-year)
