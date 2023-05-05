@@ -9,6 +9,9 @@ A list of interesting articles for cloud-native ethusiasts
 3. [Gaming](https://github.com/cloudymax/stuff-to-read/blob/main/gaming.md)
 
 4. [Governance](https://github.com/cloudymax/stuff-to-read/blob/main/governance.md)
+    - [Security and Crime](https://github.com/cloudymax/stuff-to-read/blob/main/governance.md#security-and-crime)
+    - [Regulations](https://github.com/cloudymax/stuff-to-read/blob/main/governance.md#regulations)
+    - [Ethics](https://github.com/cloudymax/stuff-to-read/blob/main/governance.md#ethics)
 
 5. [The state of the industry](https://github.com/cloudymax/stuff-to-read/blob/main/industry.md)
     - [Lock-in & Cost](https://github.com/cloudymax/stuff-to-read/blob/main/industry.md#lock-in-and-cost)
