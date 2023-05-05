@@ -65,8 +65,6 @@
 
 - [New research points to bad math behind corporate renewable energy claims - The Verge](https://www.theverge.com/2022/6/9/23160508/corporate-renewable-energy-misleading-rec-power-purchase-climate)
 
-- [The metaverse: three legal issues we need to address](https://theconversation.com/the-metaverse-three-legal-issues-we-need-to-address-175891)
-
 - [Carbon Neutral Goals by Country](https://www.visualcapitalist.com/wp-content/uploads/2021/06/Race-to-Net-Zero-Carbon-Neutral-Goals-by-Country-Full-Size.html)
 
 - [SEC Proposes Unprecedented Cybersecurity Rules and Reporting Requirements](https://corpgov.law.harvard.edu/2022/04/03/sec-proposes-unprecedented-cybersecurity-rules-and-reporting-requirements/)
@@ -104,7 +102,5 @@
 - [2022 Cloud Report | Cockroach Labs](https://www.cockroachlabs.com/guides/2022-cloud-report/)
 
 - [2021 Global DevSecOps Survey ](https://about.gitlab.com/developer-survey/)
-
-- [Intro to the Metaverse | Newzoo Trend Report 2021](https://newzoo.com/insights/trend-reports/newzoo-intro-to-the-metaverse-report-2021-free-version)
 
 - [CNCF Landscape: You are viewing 1,109 cards with a total of 3,196,992 stars, market cap of $20.4T and funding of $51.3B](https://landscape.cncf.io/?zoom=40)
