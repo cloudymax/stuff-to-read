@@ -25,8 +25,6 @@
 
 - [Technical architecture: What IT does for a living](https://www.cio.com/article/189320/technical-architecture-what-it-does-for-a-living.html)
 
-- [Why Nvidia’s bottom-up approach to the metaverse will win | VentureBeat](https://venturebeat.com/2022/01/30/why-nvidias-bottom-up-approach-to-the-metaverse-will-win/)
-
 - [Nvidia's ARM-Powered Linux RTX Demo Is a Warning Shot to x86, Microsoft - ExtremeTech](https://www.extremetech.com/gaming/324855-nvidias-arm-powered-linux-rtx-demo-is-a-warning-shot-to-x86-microsoft?source=opera)
 
 - [Case Study: Building a Hybrid Edge Cloud IIoT Platform – The New Stack](https://thenewstack.io/case-study-building-a-hybrid-edge-cloud-iiot-platform/)
@@ -40,10 +38,6 @@
 - [Hyper-Converged infrastructure](https://en.wikipedia.org/wiki/Hyper-converged_infrastructure)
 
 - [Ephemeral, Idempotent and Immutable Infrastructure - Container Journal](https://containerjournal.com/topics/ephemeral-idempotent-and-immutable-infrastructure/)
-
-- [The metaverse is infrastructure | VentureBeat](https://venturebeat.com/2021/11/18/the-metaverse-is-infrastructure/amp/)
-
-- [The Metaverse Primer - Matthew Ball](https://www.matthewball.vc/the-metaverse-primer)
 
 # Moore's Law
 
