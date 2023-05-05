@@ -54,3 +54,5 @@ A list of interesting articles and projects for cloud-native ethusiasts
     - [Performance](https://github.com/cloudymax/stuff-to-read/blob/main/virtual-machines.md#performance)
     - [Screen Streaming](https://github.com/cloudymax/stuff-to-read/blob/main/virtual-machines.md#screen-streaming)
     - [Cloud-Init](https://github.com/cloudymax/stuff-to-read/blob/main/virtual-machines.md#cloud-init) 
+
+9. [Metaverse](https://github.com/cloudymax/stuff-to-read/blob/main/metaverse.md)
