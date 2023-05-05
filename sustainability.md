@@ -10,6 +10,8 @@
 
 - [New research points to bad math behind corporate renewable energy claims - The Verge](https://www.theverge.com/2022/6/9/23160508/corporate-renewable-energy-misleading-rec-power-purchase-climate)
 
+- [Corporate sustainability push a $35 trillion dollar conundrum for auditors | Reuters](https://www.reuters.com/markets/funds/corporate-sustainability-push-35-trillion-dollar-conundrum-auditors-2022-02-22/)
+
 ## Data Center Power Usage
 
 - [Everything is moving to the cloud. But how green is it, really? | ZDNET](https://www.zdnet.com/google-amp/article/everything-is-moving-to-the-cloud-but-how-green-is-it-really/)
