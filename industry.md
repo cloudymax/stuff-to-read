@@ -59,15 +59,9 @@
 
 - [Dutch schools must stop using Google's email and cloud services due to privacy concerns.](https://tutanota.com/blog/posts/dutch-schools-must-stop-using-google-email-and-cloud-services/)
 
-- [Renewable energy certificates threaten the integrity of corporate science-based targets | Nature Climate Change](https://www.nature.com/articles/s41558-022-01379-5)
-
-- [New research points to bad math behind corporate renewable energy claims - The Verge](https://www.theverge.com/2022/6/9/23160508/corporate-renewable-energy-misleading-rec-power-purchase-climate)
-
 - [Carbon Neutral Goals by Country](https://www.visualcapitalist.com/wp-content/uploads/2021/06/Race-to-Net-Zero-Carbon-Neutral-Goals-by-Country-Full-Size.html)
 
 - [SEC Proposes Unprecedented Cybersecurity Rules and Reporting Requirements](https://corpgov.law.harvard.edu/2022/04/03/sec-proposes-unprecedented-cybersecurity-rules-and-reporting-requirements/)
-
-- [Leading Standards Organizations and Companies Unite to Drive Open Metaverse Interoperability](https://metaverse-standards.org/news/press-releases/leading-standards-organizations-and-companies-unite-to-drive-open-metaverse-interoperability/)
 
 - [SLSA • Supply-chain Levels for Software Artifacts](https://slsa.dev/)
 
