@@ -30,6 +30,11 @@
 
 - [Game development crunch: Is DevOps the answer?](https://gamedaily.biz/article/1638/game-development-crunch-is-devops-the-answer?amphtml=1)
 
+## Ethics
+
+- [Activision, Riot Games settlements will pay more than 1,500 women](https://www.axios.com/2023/05/04/activision-riot-settlement-payments)
+- []()
+
 ## Design
 
 - [Game Design Mimetics (Or, What Happened To Game Design?) - kyle kukshtel's game dev/design blog](https://blog.kylekukshtel.com/game-design-mimetics)
