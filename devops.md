@@ -4,16 +4,6 @@
 
 - [SRE vs DevOps: Comparing Two Distinct Yet Similar Software Practices](https://www.spec-india.com/blog/sre-vs-devops)
 
-## Market
-
-- [Travis CI's estimated annual revenue is currently $4.5M per year](https://growjo.com/company/Travis_CI)
-
-- [CircleCI's 2020 revenue was $50M.](https://www.cbinsights.com/company/circleci/financials)
-
-- [Bitrises Annual Revenue $15.0 Million](https://www.zippia.com/bitrise-careers-1405147/revenue/)
-
-- [Global modular data center market size to witness a healthy growth rate of 10.7% through 2027](https://www.globenewswire.com/news-release/2022/05/10/2439420/0/en/Global-modular-data-center-market-size-to-witness-a-healthy-growth-rate-of-10-7-through-2027.html)
-
 ## Culture
 
 - [Cloud-Native Is about Culture, Not Containers](https://www.infoq.com/articles/cloud-native-culture/)
