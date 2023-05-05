@@ -14,11 +14,6 @@
 
 - [Global modular data center market size to witness a healthy growth rate of 10.7% through 2027](https://www.globenewswire.com/news-release/2022/05/10/2439420/0/en/Global-modular-data-center-market-size-to-witness-a-healthy-growth-rate-of-10-7-through-2027.html)
 
-- [The State of Serverless GPUs](https://www.inferless.com/serverless-gpu-market#overview-1)
-
-- [A Performance Review of GitHub Actions - the cost of slow hardware | BuildJet for GitHub Actions](https://buildjet.com/for-github-actions/blog/a-performance-review-of-github-actions-the-cost-of-slow-hardware)
-
-
 ## Culture
 
 - [Cloud-Native Is about Culture, Not Containers](https://www.infoq.com/articles/cloud-native-culture/)
