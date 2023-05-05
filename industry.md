@@ -22,8 +22,6 @@
 
 - [Computer chip shortage: Biden official pleads with Congress to immediately address 'crisis' - CNN](https://edition.cnn.com/2021/12/02/business/inflation-chip-shortage-raimondo/index.html)
 
-- [Just like IRL, the metaverse requires infrastructure. We don’t have it yet | TechCrunch](https://techcrunch.com/2022/04/04/just-like-irl-the-metaverse-requires-infrastructure-we-dont-have-it-yet/)
-
 - [Why it’s high time to move on from ‘just-in-time’ supply chains | Kim Moody | The Guardian](https://www.theguardian.com/commentisfree/2021/oct/11/just-in-time-supply-chains-logistical-capitalism)
 
 - [Having trouble finding power supplies or server racks? You're not the only one](https://www.theregister.com/2022/06/23/inflated_price_cloud_demand_datacenter/)
