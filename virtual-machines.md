@@ -77,6 +77,8 @@
 
 - [Experiment: The hidden costs of waiting on slow build times | The GitHub Blog](https://github.blog/2022-12-08-experiment-the-hidden-costs-of-waiting-on-slow-build-times/) 
 
+- [The State of Serverless GPUs](https://www.inferless.com/serverless-gpu-market#overview-1)
+
 ## Screen Streaming
 
 - [Pi-KVM - Open and cheap DIY IP-KVM on Raspberry Pi](https://pikvm.org/)
