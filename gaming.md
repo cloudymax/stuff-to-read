@@ -32,19 +32,11 @@
 
 ## Design
 
-- [Video - Making Sense of VRChat, the "Metaverse" People Actually Like](https://www.youtube.com/watch?v=4PHT-zBxKQQ)
-
 - [Game Design Mimetics (Or, What Happened To Game Design?) - kyle kukshtel's game dev/design blog](https://blog.kylekukshtel.com/game-design-mimetics)
-
-- [The metaverse could actually be beautiful](https://www.nature.com/articles/s41558-022-01379-5)
-
-- [The Metaverse: flashback to 2007 | MUSIC x](https://www.musicxtechxfuture.com/2021/03/23/the-metaverse-flashback-to-2007/)
 
 ## Eye & Motion Tracking
 
 - [Looking Glass and Intel RealSense Depth Cameras – Intel® RealSense™ Depth and Tracking Cameras](https://www.intelrealsense.com/looking-glass/)
 
 - [Tobii Eye Tracker 5 - The Next Generation of Head and Eye Tracking - Tobii Gaming](https://gaming.tobii.com/product/eye-tracker-5/)
-
-- [Farmer Puts VR Headsets on Cows to Simulate Green Pastures](https://futurism.com/farmer-cows-vr-headset)
 
