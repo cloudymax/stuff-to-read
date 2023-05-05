@@ -18,6 +18,9 @@
 
 - [Cloud gaming | qwantify](https://qwantify.vercel.app/) 
 
+- [Shadow cloud PC relaunch looks to outdo Nvidia GeForce Now and Google Stadia](https://www.techradar.com/news/shadow-cloud-pc-relaunch-looks-to-outdo-nvidia-geforce-now-and-google-stadia) 
+
+
 ## State of the Industry
 
 - [Gaming consolidation in full swing - Axios](https://www.axios.com/gaming-consolidation-in-full-swing-a4caf136-4cb8-4226-814c-93a62b47cd8f.html)
