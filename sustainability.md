@@ -9,6 +9,8 @@
 
 ## Data Center Power Usage
 
+- [Everything is moving to the cloud. But how green is it, really? | ZDNET](https://www.zdnet.com/google-amp/article/everything-is-moving-to-the-cloud-but-how-green-is-it-really/)
+- 
 - [The Devil Is in the Details When Assessing Data Center Sustainability | Data Center Knowledge | News and analysis for the data center industry](https://www.datacenterknowledge.com/sustainability/devil-details-when-assessing-data-center-sustainability)
 
 - [Energy Efficiency Pays Its Way In The Datacenter](https://www.nextplatform.com/2023/04/12/energy-efficiency-pays-its-way-in-the-datacenter/amp/)
