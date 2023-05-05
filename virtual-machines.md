@@ -73,6 +73,8 @@
 
 - [Basecamp CTO: $600k of servers will save $7 million • The Register](https://www.theregister.com/2023/02/22/cloud_repatration_savings_calculated_basecamp/) 
 
+- [Cloud server CPU performance comparison – retailic.com](https://retailic.com/cloud-server-cpu-performance-comparison/)
+
 ## Screen Streaming
 
 - [Pi-KVM - Open and cheap DIY IP-KVM on Raspberry Pi](https://pikvm.org/)
