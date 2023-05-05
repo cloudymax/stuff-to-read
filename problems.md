@@ -4,8 +4,6 @@
 
 - [How One Billionaire With a 300-Year Plan Fueled the Popping Tech Bubble](https://www.vice.com/en/article/4awkjw/how-one-billionaire-with-a-300-year-plan-fueled-the-popping-tech-bubble)
 
-- [Every Unix Command Becomes a Startup](https://matt-rickard.com/every-unix-command-becomes-a-startup/)
-
 ## Accountability
 
 - [Bored Ape Yacht Club is Racist and Contains Nazi Dog Whistles](https://gordongoner.com/)
