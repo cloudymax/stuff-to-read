@@ -44,20 +44,6 @@
 
 - [Internet outages highlight uneven development and power concentration](https://www.nbcnews.com/tech/tech-news/internet-outages-web-concentrations-power-rcna8942)
 
-- [Nvidia fined $5.5 million over crypto mining GPU disclosures - The Verge](https://www.theverge.com/2022/5/6/23059930/nvidia-sec-charges-fine-settlement-gaming-gpu-crypto-mining)
-
-- [Ethereum Miners Spent $15 Billion on GPUs Alone During Latest Cryptocraze](https://www.tomshardware.com/news/ethereum-miners-have-spent-15-billion-on-gpus)
-
-- [Miners are dumping GPUs via livestreamed auctions](https://www.pcgamer.com/miners-are-dumping-gpus-via-livestreamed-auctions/)
-
-- [Asus, Gigabyte Lower Motherboard Projections, Bemoan Lost GPU Bundles: Report](https://www.tomshardware.com/news/asus-gigabyte-lower-motherboard-projections)
-
-- [As the NFT boom fades, major gaming companies slow their crypto plans – TechCrunch](https://techcrunch.com/2022/06/30/as-the-nft-boom-fades-major-gaming-companies-slow-their-crypto-plans/)
-
-- [Nvidia is trying to save itself from crypto’s collapse, but it may not be able to ](https://www.digitaltrends.com/computing/nvidia-amd-apple-try-to-cut-their-tsmc-orders/)
-
-- [AMD, Apple, and Nvidia Reportedly Cutting Back on TSMC 5nm Orders](https://www.tomshardware.com/news/amd-apple-nvidia-reportedly-reducing-5nm-tsmc-orders)
-
 - [https://hackaday.com/2021/09/29/bfree-brings-intermittent-computing-to-python/](https://hackaday.com/2021/09/29/bfree-brings-intermittent-computing-to-python/)
 
 - [Sustainable, transparent, energy-efficient cloud infrastructures – The Cloud Report ](https://the-report.cloud/sustainable-transparent-energy-efficient-cloud-infrastructures)
