@@ -75,6 +75,8 @@
 
 - [Cloud server CPU performance comparison – retailic.com](https://retailic.com/cloud-server-cpu-performance-comparison/)
 
+- [Experiment: The hidden costs of waiting on slow build times | The GitHub Blog](https://github.blog/2022-12-08-experiment-the-hidden-costs-of-waiting-on-slow-build-times/) 
+
 ## Screen Streaming
 
 - [Pi-KVM - Open and cheap DIY IP-KVM on Raspberry Pi](https://pikvm.org/)
