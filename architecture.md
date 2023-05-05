@@ -42,3 +42,7 @@
 - [Managing GPU pools efficiently in AI pipelines - OVHcloud Blog](https://blog.ovhcloud.com/managing-gpu-pools-efficiently-in-ai-pipelines/)
 
 - [Thinking about the complexity of the Kubernetes ecosystem · Erkan Erol](https://erkanerol.github.io/post/complexity-of-kubernetes/)
+
+- [9 Ways to Fail at Cloud Native](https://www.infoq.com/presentations/fail-cloud-native-migration/)
+
+- [Why the cloud is so complicated—an explanation, not an excuse | InfoWorld](https://www.infoworld.com/article/3628245/why-the-cloud-is-so-complicatedan-explanation-not-an-excuse.html)
