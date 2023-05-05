@@ -30,6 +30,8 @@
 
 - [NFL Player's Viral Photo Shows Need for Google's Skin Tone Camera Tech | PetaPixel](https://petapixel.com/2022/02/16/nfl-players-viral-photo-shows-need-for-googles-skin-tone-camera-tech/)
 
+- [Male and Female Entrepreneurs Get Asked Different Questions by VCs — and It Affects How Much Funding They Get](https://hbr.org/2017/06/male-and-female-entrepreneurs-get-asked-different-questions-by-vcs-and-it-affects-how-much-funding-they-get)
+
 ## Design
 
 - [The sad state of Linux desktop diversity and accessibility • The Register](https://www.theregister.com/2022/05/17/linux_desktop_feature/)
