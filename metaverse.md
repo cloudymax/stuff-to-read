@@ -10,6 +10,8 @@
 
 - [How edge devices and infrastructure will shape the metaverse experience | VentureBeat](https://venturebeat.com/virtual/how-edge-devices-and-infrastructure-will-shape-the-metaverse-experience/) 
 
+- [Just like IRL, the metaverse requires infrastructure. We don’t have it yet | TechCrunch](https://techcrunch.com/2022/04/04/just-like-irl-the-metaverse-requires-infrastructure-we-dont-have-it-yet/)
+ 
 ## User Experience
 
 - [Video - Making Sense of VRChat, the "Metaverse" People Actually Like](https://www.youtube.com/watch?v=4PHT-zBxKQQ)
