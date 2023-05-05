@@ -33,9 +33,18 @@
 ## Ethics
 
 - [Activision, Riot Games settlements will pay more than 1,500 women](https://www.axios.com/2023/05/04/activision-riot-settlement-payments)
-- []()
+
+- [A guide to properly crediting game workers and why it matters | GamesIndustry.biz](https://www.gamesindustry.biz/a-guide-to-properly-crediting-game-workers-and-why-it-matters)
+
+- [Ethical leadership in workplace settings can cause narcissists to become angry and withdraw](https://www.psypost.org/2023/03/ethical-leadership-in-workplace-settings-can-cause-narcissists-to-become-angry-and-withdraw-68767)
+
+## Inclusivity
+
+- [Playing Outside the Binary: 6 Things We Learned From 14,000 Transgender & Non-Binary Gamers - Quantic Foundry](https://quanticfoundry.com/2023/03/20/outside-the-binary/)
 
 ## Design
+
+- [How did Demeo avoid the toxic culture of so many multiplayer games? | Android Central](https://www.androidcentral.com/gaming/virtual-reality/how-did-demeo-avoid-the-toxic-culture-of-so-many-multiplayer-games)
 
 - [Game Design Mimetics (Or, What Happened To Game Design?) - kyle kukshtel's game dev/design blog](https://blog.kylekukshtel.com/game-design-mimetics)
 
