@@ -71,7 +71,7 @@
 
 - [A Performance Review of GitHub Actions - the cost of slow hardware | BuildJet for GitHub Actions](https://buildjet.com/for-github-actions/blog/a-performance-review-of-github-actions-the-cost-of-slow-hardware)
 
-- []() 
+- [Basecamp CTO: $600k of servers will save $7 million • The Register](https://www.theregister.com/2023/02/22/cloud_repatration_savings_calculated_basecamp/) 
 
 ## Screen Streaming
 
