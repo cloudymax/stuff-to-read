@@ -4,6 +4,8 @@
 
 - [How One Billionaire With a 300-Year Plan Fueled the Popping Tech Bubble](https://www.vice.com/en/article/4awkjw/how-one-billionaire-with-a-300-year-plan-fueled-the-popping-tech-bubble)
 
+- [Stop Talking to Each Other and Start Buying Things: Three Decades of Survival in the Desert of Social Media](https://catvalente.substack.com/p/stop-talking-to-each-other-and-start)
+
 ## Accountability
 
 - [The era of cloud colonialism has begun • The Register](https://www.theregister.com/2022/12/28/cloud_colonialism_era/)
