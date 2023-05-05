@@ -6,6 +6,8 @@
 
 ## Accountability
 
+- [The era of cloud colonialism has begun • The Register](https://www.theregister.com/2022/12/28/cloud_colonialism_era/)
+
 - [Bored Ape Yacht Club is Racist and Contains Nazi Dog Whistles](https://gordongoner.com/)
 
 - [If your website's full of assholes, it's your fault](https://anildash.com/2011/07/20/if_your_websites_full_of_assholes_its_your_fault-2/)
