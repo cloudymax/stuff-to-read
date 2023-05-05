@@ -6,6 +6,9 @@
 
 - [Google Cloud survey finds most execs support sustainability efforts, but few follow the data | TechCrunch](https://techcrunch.com/2022/04/13/google-cloud-survey-finds-most-execs-support-sustainability-efforts-but-few-follow-the-data/)
 
+- [Renewable energy certificates threaten the integrity of corporate science-based targets | Nature Climate Change](https://www.nature.com/articles/s41558-022-01379-5)
+
+- [New research points to bad math behind corporate renewable energy claims - The Verge](https://www.theverge.com/2022/6/9/23160508/corporate-renewable-energy-misleading-rec-power-purchase-climate)
 
 ## Data Center Power Usage
 
