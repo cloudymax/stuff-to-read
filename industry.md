@@ -96,3 +96,13 @@
 - [2021 Global DevSecOps Survey ](https://about.gitlab.com/developer-survey/)
 
 - [CNCF Landscape: You are viewing 1,109 cards with a total of 3,196,992 stars, market cap of $20.4T and funding of $51.3B](https://landscape.cncf.io/?zoom=40)
+
+## Market
+
+- [Travis CI's estimated annual revenue is currently $4.5M per year](https://growjo.com/company/Travis_CI)
+
+- [CircleCI's 2020 revenue was $50M.](https://www.cbinsights.com/company/circleci/financials)
+
+- [Bitrises Annual Revenue $15.0 Million](https://www.zippia.com/bitrise-careers-1405147/revenue/)
+
+- [Global modular data center market size to witness a healthy growth rate of 10.7% through 2027](https://www.globenewswire.com/news-release/2022/05/10/2439420/0/en/Global-modular-data-center-market-size-to-witness-a-healthy-growth-rate-of-10-7-through-2027.html)
