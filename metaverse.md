@@ -40,4 +40,6 @@
 
 ## Ecosystem
 
+- [Leading Standards Organizations and Companies Unite to Drive Open Metaverse Interoperability](https://metaverse-standards.org/news/press-releases/leading-standards-organizations-and-companies-unite-to-drive-open-metaverse-interoperability/)
+
 - [Intro to the Metaverse | Newzoo Trend Report 2021](https://newzoo.com/insights/trend-reports/newzoo-intro-to-the-metaverse-report-2021-free-version)
