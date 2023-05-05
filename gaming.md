@@ -33,3 +33,7 @@
 - [Tobii Eye Tracker 5 - The Next Generation of Head and Eye Tracking - Tobii Gaming](https://gaming.tobii.com/product/eye-tracker-5/)
 
 - [The metaverse could actually be beautiful](https://www.nature.com/articles/s41558-022-01379-5)
+
+- [Farmer Puts VR Headsets on Cows to Simulate Green Pastures](https://futurism.com/farmer-cows-vr-headset)
+
+- [The Metaverse: flashback to 2007 | MUSIC x](https://www.musicxtechxfuture.com/2021/03/23/the-metaverse-flashback-to-2007/)
