@@ -56,3 +56,8 @@ A list of interesting articles and projects for cloud-native ethusiasts
     - [Cloud-Init](https://github.com/cloudymax/stuff-to-read/blob/main/virtual-machines.md#cloud-init) 
 
 9. [Metaverse](https://github.com/cloudymax/stuff-to-read/blob/main/metaverse.md)
+    - [Systems Design](https://github.com/cloudymax/stuff-to-read/blob/main/metaverse.md#systems-design)
+    - [User Experience](https://github.com/cloudymax/stuff-to-read/blob/main/metaverse.md#user-experience)
+    - [Problems to Solve](https://github.com/cloudymax/stuff-to-read/blob/main/metaverse.md#problems-to-solve)
+    - [Cautionary Tales](https://github.com/cloudymax/stuff-to-read/blob/main/metaverse.md#cautionary-tales)
+    - [Ecosystem](https://github.com/cloudymax/stuff-to-read/blob/main/metaverse.md#ecosystem)
