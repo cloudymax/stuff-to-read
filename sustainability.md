@@ -9,6 +9,10 @@
 
 ## Data Center Power Usage
 
+- [The Devil Is in the Details When Assessing Data Center Sustainability | Data Center Knowledge | News and analysis for the data center industry](https://www.datacenterknowledge.com/sustainability/devil-details-when-assessing-data-center-sustainability)
+
+- [Energy Efficiency Pays Its Way In The Datacenter](https://www.nextplatform.com/2023/04/12/energy-efficiency-pays-its-way-in-the-datacenter/amp/)
+
 - [Operation Tulip: Inside Facebook’s Secretive Push To Build Holland’s Biggest Data Center](https://www.buzzfeednews.com/amphtml/amansethi/operation-tulip-inside-facebooks-secretive-push-to-build)
 
 - [Meta’s data centre used same electricity as 151,000 homes | Business Post](https://www.businesspost.ie/news/metas-data-centre-used-same-electricity-as-151000-homes/)
