@@ -1,16 +1,8 @@
 ## Security and Crime
 
-- [Meta's metaverse app user reveals her avatar was 'virtually groped'](https://www.dailymail.co.uk/sciencetech/article-10320449/Metas-metaverse-app-user-reveals-avatar-virtually-groped.html)
-
-- [Metaverse privacy maturity lags behind enthusiasm • The Register](https://www.theregister.com/2022/06/02/metaverse_privacy_immature/)
-
-- [What Should Be Considered a Crime in the Metaverse? | WIRED](https://www.wired.com/story/crime-metaverse-virtual-reality/)
-
 - [Police Linked to Hacking Campaign to Frame Indian Activists | WIRED](https://www.wired.com/story/modified-elephant-planted-evidence-hacking-police/)
 
 - [Researchers use GPU fingerprinting to track users online](https://www.bleepingcomputer.com/news/security/researchers-use-gpu-fingerprinting-to-track-users-online/)
-
-- [Serious crime in the metaverse should be outlawed by the U.N., UAE minister says](https://www.cnbc.com/2022/05/25/metaverse-murders-need-to-be-policed-says-uae-tech-minister.html)
 
 ## Regulations
 
