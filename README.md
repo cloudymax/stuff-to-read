@@ -1,12 +1,23 @@
 # Stuff to Read
 
-A list of interesting articles for cloud-native ethusiasts
+A list of interesting articles and projects for cloud-native ethusiasts
 
 1. [Aritecture](https://github.com/cloudymax/stuff-to-read/blob/main/architecture.md)
 
 2. [DevOps & SRE](https://github.com/cloudymax/stuff-to-read/blob/main/devops.md)
+    - [Culture](https://github.com/cloudymax/stuff-to-read/blob/main/devops.md#culture)
+    - [Market](https://github.com/cloudymax/stuff-to-read/blob/main/devops.md#market)
+    - [Networking](https://github.com/cloudymax/stuff-to-read/blob/main/devops.md#networking)
+    - [Databases](https://github.com/cloudymax/stuff-to-read/blob/main/devops.md#databases)
+    - [Security](https://github.com/cloudymax/stuff-to-read/blob/main/devops.md#security)
+    - [Fun](https://github.com/cloudymax/stuff-to-read/blob/main/devops.md#fun)
 
 3. [Gaming](https://github.com/cloudymax/stuff-to-read/blob/main/gaming.md)
+    - [Cloud Gaming](https://github.com/cloudymax/stuff-to-read/blob/main/gaming.md#cloud-gaming)
+    - [State of The Industry](https://github.com/cloudymax/stuff-to-read/blob/main/gaming.md#state-of-the-industry)
+    - [Crunch](https://github.com/cloudymax/stuff-to-read/blob/main/gaming.md#crunch)
+    - [Design](https://github.com/cloudymax/stuff-to-read/blob/main/gaming.md#design)
+    - [Eye & Motion Tracking](https://github.com/cloudymax/stuff-to-read/blob/main/gaming.md#eye--motion-tracking)
 
 4. [Governance](https://github.com/cloudymax/stuff-to-read/blob/main/governance.md)
     - [Security and Crime](https://github.com/cloudymax/stuff-to-read/blob/main/governance.md#security-and-crime)
