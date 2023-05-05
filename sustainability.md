@@ -66,3 +66,9 @@
 - [Illegal Brazil gold tied to Italian refiner and Big Tech customers | Reuters](https://www.reuters.com/world/americas/illegal-brazil-gold-tied-italian-refiner-big-tech-customers-documents-2022-07-25/)
 
 - [The Life of an EV Battery From Cradle to Grave — and Why Recycling Is Still so Hard](https://www.thedrive.com/tech/the-life-of-an-ev-battery-from-cradle-to-grave-and-why-recycling-is-still-so-hard)
+
+## Companies
+
+- [heata | low carbon compute](https://www.heata.co/compute)
+
+- [leaf.cloud](https://www.leaf.cloud/)
