@@ -49,8 +49,6 @@
 
 - [https://hackaday.com/2021/09/29/bfree-brings-intermittent-computing-to-python/](https://hackaday.com/2021/09/29/bfree-brings-intermittent-computing-to-python/)
 
-- [Sustainability and the metaverse: 5 considerations for preparing for the next big tech paradigm shift | VentureBeat](https://venturebeat.com/2022/04/03/sustainability-and-the-metaverse-5-considerations-for-preparing-for-the-next-big-tech-paradigm-shift/)
-
 - [Sustainable, transparent, energy-efficient cloud infrastructures – The Cloud Report ](https://the-report.cloud/sustainable-transparent-energy-efficient-cloud-infrastructures)
 
 - [European cloud services radically greener than Azure, Google Cloud, and AWS ](https://www.leaf.cloud/)
